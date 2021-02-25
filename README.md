@@ -17,7 +17,7 @@ Any and all work was created by Colton Parham, with the exceptions of any fonts.
 
 It is encouraged to look at this website and mess with it as needed.
 
-The raw code will be posted in the README below the following reference links.
+As this code may be spaghetti, I am still getting used to larger projects.
 
 If you’d like some inspiration, you can look to the following samples:
 
