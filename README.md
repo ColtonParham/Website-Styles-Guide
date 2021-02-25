@@ -1,6 +1,6 @@
-KBINDEX is what the website is going to be called. 
+This projects purpose is to provide simple website styles guides. 
 
-Okay lets get into this project as a starting point. We are creating a website of the sort, using the design elements we have learned. REFER to the JSFULLSTACKSLEARNING GIST on github, will be our lifesaver since it has a lot of useful stuff that I started to write down. 
+Path for viewing is indeed, a staircase type.
 
 The purpose of this website is to be a small little project for creating a simple style guide on many different topics, including:
  - Colors
