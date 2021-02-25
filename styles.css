@@ -1,0 +1,165 @@
+  /*Imported Font Josefin Sans.*/
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Indie+Flower&family=Monoton&family=Noto+Sans+TC:wght@300&family=Quicksand:wght@600&display=swap');
+
+  /*General Tag Styling*/
+  body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: ivory;
+  }
+
+  a{
+    color: black;
+  }
+
+  /*Header Styling*/
+  .headerTitle{
+    padding: 10px;
+    width: 25%;
+    border: 3px solid black;
+    font-size: 50px;
+    margin-bottom: 60px;
+    text-shadow: 2px 2px #b9b0be;
+  }
+
+  /*Color Elements*/
+  .color-container {
+    background-color: rgba(179, 221, 245, 0.527);
+    position: relative;
+    left:6%;
+    border: 3px solid black;
+    font-size: 21px;
+    text-align: center;
+    width: 40%;
+    display: inline-block;
+  }
+
+  .azure {
+    padding:10px;
+    color: black;
+    background-color: azure;
+  }
+
+  .salmon{
+    padding:10px;
+    color: black;
+    background-color: salmon;
+  }
+
+  .mint-green{
+    padding: 10px;
+    color: black;
+    background-color: #4fe0b0;
+  }
+
+  .beige{
+    padding: 10px;
+    color: black;
+    background-color: beige;
+  }
+
+  .ColorName{
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 12%;
+  }
+
+  .fonts{
+    margin-bottom: 10px;
+    text-align: right;
+    margin-right: 12%;
+  }
+
+  /*Font styles*/
+  .fontType{
+    display: block;
+    background-color: rgba(155, 124, 212, 0.527);
+    position: sticky;
+    left: 55%;
+    border: 3px solid black;
+    font-size: 21px;
+    text-align: center;
+    width: 40%;
+  }
+  .DotGothic16{
+    font-family: 'DotGothic16', sans-serif;
+  }
+
+  .Quicksand{
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  .NotoSansTC{
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  .IndieFlower{
+    font-family: 'Indie Flower', cursive;
+  }
+
+  .IndieFlower{
+    font-family: 'Indie Flower', cursive;
+  }
+
+  .Monoton{
+    font-family: 'Monoton', cursive;
+  }
+
+
+  .fontLink {
+    text-align: right;
+    margin-right: 5%;
+  }
+
+  .colorLink {
+    text-align: left;
+    margin-left: 6.29%;
+  }
+
+
+  /*Text Styles Elements*/
+  .textH {
+    text-align: center;
+    margin-right: 30%;
+    font-size: 21px;
+  }
+
+  .textP {
+    
+    font-size: 16px;
+  }
+
+  .textContainer{
+    border: black solid 3px;
+    right: 10%;
+    text-align: center;
+    background-color: rgb(247, 236, 121);
+    opacity: 0.9;
+  }
+
+  .text-styles{
+    margin-top: 1.5%;
+    text-align: center;
+  }
+
+  .textPara{
+    text-align: center;
+  }
+
+  .textFontUsed{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .textList{
+    display: inline-block;
+    width: 95%;
+    font-size: 16px;
+    text-align: center;
+  }
+  /*font-family: 'DotGothic16', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Monoton', cursive;
+  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Quicksand', sans-serif; 
+  */
